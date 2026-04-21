@@ -1,0 +1,17 @@
+{
+  "name": "Global Display",
+  "short_name": "Global Display",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0F1A",
+  "theme_color": "#1B3FEE",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
